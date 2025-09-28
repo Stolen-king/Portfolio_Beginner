@@ -1,6 +1,6 @@
 # Aryan Anand Saha - Portfolio Website
 
-🚀 Live Site: [[codehelp-portfolio-website.netlify.app](https://codehelp-portfolio-website.netlify.app/](https://portfolio-beginer.netlify.app/))
+🚀 Live Site: [portfolio-website.netlify.app](https://portfolio-beginer.netlify.app/)
 
 Welcome to my personal portfolio website! This project showcases my journey, skills, projects, and ways to connect with me. Designed with a clean, responsive layout and developed using modern frontend technologies, this site reflects my dedication to quality and attention to detail.
 
