@@ -24,6 +24,17 @@ I’m **Aryan Anand Saha**, a passionate developer with an interest in web devel
 - 🧩 **Projects** – Highlights of my major projects with links to GitHub repos or live demos.
 - 📫 **Contact** – Quick access to email and social media links.
 
+  ##Preview -- 
+
+<img width="1673" height="801" alt="image" src="https://github.com/user-attachments/assets/aaddd03f-2a7a-4228-bb18-a49bd5b8862e" />
+
+<img width="1905" height="867" alt="image" src="https://github.com/user-attachments/assets/ab7d5d5c-e051-492f-a59b-d4579f4340da" />
+
+<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/e9ed7035-e4dd-452d-a7c4-8046b5e3ae43" />
+
+<img width="1903" height="848" alt="image" src="https://github.com/user-attachments/assets/3fe5cbf8-29b4-41be-b2c8-5d4c1fe7ddbe" />
+
+
 
 
 
